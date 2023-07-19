@@ -1,0 +1,210 @@
+{
+    "A": [
+        {
+            "PARTIDA": "CATAR x EQUADOR",
+            "PLACAR": "0x2"
+        },
+        {
+            "PARTIDA": "CATAR x SENEGAL",
+            "PLACAR": "1x3"
+        },
+        {
+            "PARTIDA": "CATAR x HOLANDA",
+            "PLACAR": "0x2"
+        },
+        {
+            "PARTIDA": "EQUADOR x SENEGAL",
+            "PLACAR": "1x2"
+        },
+        {
+            "PARTIDA": "EQUADOR x HOLANDA",
+            "PLACAR": "1x1"
+        },
+        {
+            "PARTIDA": "SENEGAL x HOLANDA",
+            "PLACAR": "0x2"
+        }
+    ],
+    "B": [
+        {
+            "PARTIDA": "INGLATERRA x EUA",
+            "PLACAR": "0x0"
+        },
+        {
+            "PARTIDA": "INGLATERRA x IRÃ",
+            "PLACAR": "6x2"
+        },
+        {
+            "PARTIDA": "INGLATERRA x PAÍS DE GALES",
+            "PLACAR": "3x0"
+        },
+        {
+            "PARTIDA": "EUA x IRÃ",
+            "PLACAR": "1x0"
+        },
+        {
+            "PARTIDA": "EUA x PAÍS DE GALES",
+            "PLACAR": "1x1"
+        },
+        {
+            "PARTIDA": "IRÃ x PAÍS DE GALES",
+            "PLACAR": "2x0"
+        }
+    ],
+    "C": [
+        {
+            "PARTIDA": "ARGENTINA x ARÁBIA SAUDITA",
+            "PLACAR": "1x2"
+        },
+        {
+            "PARTIDA": "ARGENTINA x MÉXICO",
+            "PLACAR": "2x0"
+        },
+        {
+            "PARTIDA": "ARGENTINA x POLÔNIA",
+            "PLACAR": "2x0"
+        },
+        {
+            "PARTIDA": "ARÁBIA SAUDITA x MÉXICO",
+            "PLACAR": "1x2"
+        },
+        {
+            "PARTIDA": "ARÁBIA SAUDITA x POLÔNIA",
+            "PLACAR": "0x2"
+        },
+        {
+            "PARTIDA": "MÉXICO x POLÔNIA",
+            "PLACAR": "0x0"
+        }
+    ],
+    "D": [
+        {
+            "PARTIDA": "DINAMARCA x TUNÍSIA",
+            "PLACAR": "0x0"
+        },
+        {
+            "PARTIDA": "DINAMARCA x FRANÇA",
+            "PLACAR": "1x2"
+        },
+        {
+            "PARTIDA": "DINAMARCA x AUSTRÁLIA",
+            "PLACAR": "0x1"
+        },
+        {
+            "PARTIDA": "TUNÍSIA x FRANÇA",
+            "PLACAR": "1x0"
+        },
+        {
+            "PARTIDA": "TUNÍSIA x AUSTRÁLIA",
+            "PLACAR": "0x1"
+        },
+        {
+            "PARTIDA": "FRANÇA x AUSTRÁLIA",
+            "PLACAR": "4x1"
+        }
+    ],
+    "E": [
+        {
+            "PARTIDA": "ALEMANHA x COSTA RICA",
+            "PLACAR": "4x2"
+        },
+        {
+            "PARTIDA": "ALEMANHA x ESPANHA",
+            "PLACAR": "1x1"
+        },
+        {
+            "PARTIDA": "ALEMANHA x JAPÃO",
+            "PLACAR": "1x2"
+        },
+        {
+            "PARTIDA": "COSTA RICA x ESPANHA",
+            "PLACAR": "0x7"
+        },
+        {
+            "PARTIDA": "COSTA RICA x JAPÃO",
+            "PLACAR": "1x0"
+        },
+        {
+            "PARTIDA": "ESPANHA x JAPÃO",
+            "PLACAR": "1x2"
+        }
+    ],
+    "F": [
+        {
+            "PARTIDA": "BELGICA x CANADÁ",
+            "PLACAR": "1x0"
+        },
+        {
+            "PARTIDA": "BELGICA x CROÁCIA",
+            "PLACAR": "0x0"
+        },
+        {
+            "PARTIDA": "BELGICA x MARROCOS",
+            "PLACAR": "0x2"
+        },
+        {
+            "PARTIDA": "CANADÁ x CROÁCIA",
+            "PLACAR": "1x4"
+        },
+        {
+            "PARTIDA": "CANADÁ x MARROCOS",
+            "PLACAR": "1x2"
+        },
+        {
+            "PARTIDA": "CROÁCIA x MARROCOS",
+            "PLACAR": "0x0"
+        }
+    ],
+    "G": [
+        {
+            "PARTIDA": "BRASIL x CAMARÕES",
+            "PLACAR": "0x1"
+        },
+        {
+            "PARTIDA": "BRASIL x SÉRVIA",
+            "PLACAR": "2x0"
+        },
+        {
+            "PARTIDA": "BRASIL x SUÍÇA",
+            "PLACAR": "1x0"
+        },
+        {
+            "PARTIDA": "CAMARÕES x SÉRVIA",
+            "PLACAR": "3x3"
+        },
+        {
+            "PARTIDA": "CAMARÕES x SUÍÇA",
+            "PLACAR": "0x1"
+        },
+        {
+            "PARTIDA": "SÉRVIA x SUÍÇA",
+            "PLACAR": "2x3"
+        }
+    ],
+    "H": [
+        {
+            "PARTIDA": "CORÉIA DO SUL x GANA",
+            "PLACAR": "2x3"
+        },
+        {
+            "PARTIDA": "CORÉIA DO SUL x PORTUGAL",
+            "PLACAR": "2x1"
+        },
+        {
+            "PARTIDA": "CORÉIA DO SUL x URUGUAI",
+            "PLACAR": "0x0"
+        },
+        {
+            "PARTIDA": "GANA x PORTUGAL",
+            "PLACAR": "2x3"
+        },
+        {
+            "PARTIDA": "GANA x URUGUAI",
+            "PLACAR": "0x2"
+        },
+        {
+            "PARTIDA": "PORTUGAL x URUGUAI",
+            "PLACAR": "2x0"
+        }
+    ]
+}

@@ -1,0 +1,306 @@
+{
+    "A": [
+        {
+            "PARTIDA": "CATAR x EQUADOR",
+            "DATA": "20/11",
+            "LOCAL": "AL BAYT",
+            "HORÁRIO": "13:00"
+        },
+        {
+            "PARTIDA": "CATAR x SENEGAL",
+            "DATA": "25/11",
+            "LOCAL": "AL THUMAMA",
+            "HORÁRIO": "10:00"
+        },
+        {
+            "PARTIDA": "CATAR x HOLANDA",
+            "DATA": "29/11",
+            "LOCAL": "AL BAYT",
+            "HORÁRIO": "12:00"
+        },
+        {
+            "PARTIDA": "EQUADOR x SENEGAL",
+            "DATA": "29/11",
+            "LOCAL": "INTERNACIONAL KHALIFA",
+            "HORÁRIO": "12:00"
+        },
+        {
+            "PARTIDA": "EQUADOR x HOLANDA",
+            "DATA": "13:00",
+            "LOCAL": "INTERNACIONAL KHALIFA",
+            "HORÁRIO": "13:00"
+        },
+        {
+            "PARTIDA": "SENEGAL x HOLANDA",
+            "DATA": "21/11",
+            "LOCAL": "AL THUMAMA",
+            "HORÁRIO": "13:00"
+        }
+    ],
+    "B": [
+        {
+            "PARTIDA": "INGLATERRA x EUA",
+            "DATA": "25/11",
+            "LOCAL": "AL BAYT",
+            "HORÁRIO": "16:00"
+        },
+        {
+            "PARTIDA": "INGLATERRA x IRÃ",
+            "DATA": "21/11",
+            "LOCAL": "INTERNACIONAL KHALIFA",
+            "HORÁRIO": "10:00"
+        },
+        {
+            "PARTIDA": "INGLATERRA x PAÍS DE GALES",
+            "DATA": "29/11",
+            "LOCAL": "AHMAD BIN ALI",
+            "HORÁRIO": "16:00"
+        },
+        {
+            "PARTIDA": "EUA x IRÃ",
+            "DATA": "29/11",
+            "LOCAL": "AL THUMAMA",
+            "HORÁRIO": "16:00"
+        },
+        {
+            "PARTIDA": "EUA x PAÍS DE GALES",
+            "DATA": "21/11",
+            "LOCAL": "AHMAD BIN ALI",
+            "HORÁRIO": "16:00"
+        },
+        {
+            "PARTIDA": "IRÃ x PAÍS DE GALES",
+            "DATA": "25/11",
+            "LOCAL": "AHMAD BIN ALI",
+            "HORÁRIO": "07:00"
+        }
+    ],
+    "C": [
+        {
+            "PARTIDA": "ARGENTINA x ARÁBIA SAUDITA",
+            "DATA": "22/11",
+            "LOCAL": "LUSAIL",
+            "HORÁRIO": "07:00"
+        },
+        {
+            "PARTIDA": "ARGENTINA x MÉXICO",
+            "DATA": "26/11",
+            "LOCAL": "LUSAIL",
+            "HORÁRIO": "16:00"
+        },
+        {
+            "PARTIDA": "ARGENTINA x POLÔNIA",
+            "DATA": "30/11",
+            "LOCAL": "ESTÁDIO 974",
+            "HORÁRIO": "16:00"
+        },
+        {
+            "PARTIDA": "ARÁBIA SAUDITA x MÉXICO",
+            "DATA": "30/11",
+            "LOCAL": "LUSAIL",
+            "HORÁRIO": "16:00"
+        },
+        {
+            "PARTIDA": "ARÁBIA SAUDITA x POLÔNIA",
+            "DATA": "26/11",
+            "LOCAL": "CIDADE DA EDUCAÇÃO",
+            "HORÁRIO": "10:00"
+        },
+        {
+            "PARTIDA": "MÉXICO x POLÔNIA",
+            "DATA": "22/11",
+            "LOCAL": "ESTÁDIO 974",
+            "HORÁRIO": "13:00"
+        }
+    ],
+    "D": [
+        {
+            "PARTIDA": "DINAMARCA x TUNÍSIA",
+            "DATA": "22/11",
+            "LOCAL": "CIDADE DA EDUCAÇÃO",
+            "HORÁRIO": "10:00"
+        },
+        {
+            "PARTIDA": "DINAMARCA x FRANÇA",
+            "DATA": "26/11",
+            "LOCAL": "ESTÁDIO 974",
+            "HORÁRIO": "07:00"
+        },
+        {
+            "PARTIDA": "DINAMARCA x AUSTRÁLIA",
+            "DATA": "30/11",
+            "LOCAL": "AL JANOUB",
+            "HORÁRIO": "12:00"
+        },
+        {
+            "PARTIDA": "TUNÍSIA x FRANÇA",
+            "DATA": "30/11",
+            "LOCAL": "CIDADE DA EDUCAÇÃO",
+            "HORÁRIO": "12:00"
+        },
+        {
+            "PARTIDA": "TUNÍSIA x AUSTRÁLIA",
+            "DATA": "26/11",
+            "LOCAL": "AL JANOUB",
+            "HORÁRIO": "07:00"
+        },
+        {
+            "PARTIDA": "FRANÇA x AUSTRÁLIA",
+            "DATA": "22/11",
+            "LOCAL": "AL JANOUB",
+            "HORÁRIO": "16:00"
+        }
+    ],
+    "E": [
+        {
+            "PARTIDA": "ALEMANHA x COSTA RICA",
+            "DATA": "01/12",
+            "LOCAL": "AL BAYT",
+            "HORÁRIO": "16:00"
+        },
+        {
+            "PARTIDA": "ALEMANHA x ESPANHA",
+            "DATA": "27/11",
+            "LOCAL": "AL BAYT",
+            "HORÁRIO": "16:00"
+        },
+        {
+            "PARTIDA": "ALEMANHA x JAPÃO",
+            "DATA": "23/11",
+            "LOCAL": "INTERNACIONAL KHALIFA",
+            "HORÁRIO": "10:00"
+        },
+        {
+            "PARTIDA": "COSTA RICA x ESPANHA",
+            "DATA": "23/11",
+            "LOCAL": "AL THUMAMA",
+            "HORÁRIO": "13:00"
+        },
+        {
+            "PARTIDA": "COSTA RICA x JAPÃO",
+            "DATA": "27/11",
+            "LOCAL": "AHMAD BIN ALI",
+            "HORÁRIO": "07:00"
+        },
+        {
+            "PARTIDA": "ESPANHA x JAPÃO",
+            "DATA": "01/12",
+            "LOCAL": "INTERNACIONAL KHALIFA",
+            "HORÁRIO": "16:00"
+        }
+    ],
+    "F": [
+        {
+            "PARTIDA": "BELGICA x CANADÁ",
+            "DATA": "23/11",
+            "LOCAL": "AHMAD BIN ALI",
+            "HORÁRIO": "16:00"
+        },
+        {
+            "PARTIDA": "BELGICA x CROÁCIA",
+            "DATA": "01/12",
+            "LOCAL": "AHMAD BIN ALI",
+            "HORÁRIO": "12:00"
+        },
+        {
+            "PARTIDA": "BELGICA x MARROCOS",
+            "DATA": "27/11",
+            "LOCAL": "AL THUMAMA",
+            "HORÁRIO": "10:00"
+        },
+        {
+            "PARTIDA": "CANADÁ x CROÁCIA",
+            "DATA": "27/11",
+            "LOCAL": "INTERNACIONAL KHALIFA",
+            "HORÁRIO": "13:00"
+        },
+        {
+            "PARTIDA": "CANADÁ x MARROCOS",
+            "DATA": "01/12",
+            "LOCAL": "AL THUMAMA",
+            "HORÁRIO": "12:00"
+        },
+        {
+            "PARTIDA": "CROÁCIA x MARROCOS",
+            "DATA": "23/11",
+            "LOCAL": "AL BAYT",
+            "HORÁRIO": "07:00"
+        }
+    ],
+    "G": [
+        {
+            "PARTIDA": "BRASIL x CAMARÕES",
+            "DATA": "02/12",
+            "LOCAL": "LUSAIL",
+            "HORÁRIO": "16:00"
+        },
+        {
+            "PARTIDA": "BRASIL x SÉRVIA",
+            "DATA": "24/11",
+            "LOCAL": "LUSAIL",
+            "HORÁRIO": "16:00"
+        },
+        {
+            "PARTIDA": "BRASIL x SUÍÇA",
+            "DATA": "28/11",
+            "LOCAL": "ESTÁDIO 974",
+            "HORÁRIO": "13:00"
+        },
+        {
+            "PARTIDA": "CAMARÕES x SÉRVIA",
+            "DATA": "28/11",
+            "LOCAL": "AL JANOUB",
+            "HORÁRIO": "07:00"
+        },
+        {
+            "PARTIDA": "CAMARÕES x SUÍÇA",
+            "DATA": "24/11",
+            "LOCAL": "AL JANOUB",
+            "HORÁRIO": "07:00"
+        },
+        {
+            "PARTIDA": "SÉRVIA x SUÍÇA",
+            "DATA": "02/12",
+            "LOCAL": "ESTÁDIO 974",
+            "HORÁRIO": "16:00"
+        }
+    ],
+    "H": [
+        {
+            "PARTIDA": "CORÉIA DO SUL x GANA",
+            "DATA": "28/11",
+            "LOCAL": "CIDADE DA EDUCAÇÃO",
+            "HORÁRIO": "10:00"
+        },
+        {
+            "PARTIDA": "CORÉIA DO SUL x PORTUGAL",
+            "DATA": "02/12",
+            "LOCAL": "CIDADE DA EDUCAÇÃO",
+            "HORÁRIO": "12:00"
+        },
+        {
+            "PARTIDA": "CORÉIA DO SUL x URUGUAI",
+            "DATA": "24/11",
+            "LOCAL": "CIDADE DA EDUCAÇÃO",
+            "HORÁRIO": "10:00"
+        },
+        {
+            "PARTIDA": "GANA x PORTUGAL",
+            "DATA": "24/11",
+            "LOCAL": "ESTÁDIO 974",
+            "HORÁRIO": "13:00"
+        },
+        {
+            "PARTIDA": "GANA x URUGUAI",
+            "DATA": "02/12",
+            "LOCAL": "AL JANOUB",
+            "HORÁRIO": "12:00"
+        },
+        {
+            "PARTIDA": "PORTUGAL x URUGUAI",
+            "DATA": "28/11",
+            "LOCAL": "LUSAIL",
+            "HORÁRIO": "16:00"
+        }
+    ]
+}

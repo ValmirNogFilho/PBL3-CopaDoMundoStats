@@ -1,0 +1,50 @@
+{
+    "A": [
+        "CATAR",
+        "EQUADOR",
+        "SENEGAL",
+        "HOLANDA"
+    ],
+    "B": [
+        "INGLATERRA",
+        "EUA",
+        "IRÃ",
+        "PAÍS DE GALES"
+    ],
+    "C": [
+        "ARGENTINA",
+        "ARÁBIA SAUDITA",
+        "MÉXICO",
+        "POLÔNIA"
+    ],
+    "D": [
+        "DINAMARCA",
+        "TUNÍSIA",
+        "FRANÇA",
+        "AUSTRÁLIA"
+    ],
+    "E": [
+        "ALEMANHA",
+        "COSTA RICA",
+        "ESPANHA",
+        "JAPÃO"
+    ],
+    "F": [
+        "BELGICA",
+        "CANADÁ",
+        "CROÁCIA",
+        "MARROCOS"
+    ],
+    "G": [
+        "BRASIL",
+        "CAMARÕES",
+        "SÉRVIA",
+        "SUÍÇA"
+    ],
+    "H": [
+        "CORÉIA DO SUL",
+        "GANA",
+        "PORTUGAL",
+        "URUGUAI"
+    ]
+}
